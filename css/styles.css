@@ -78,7 +78,7 @@ header {
 .part-logo {
   color: #2e2f42;
 }
-.nav-block {
+header .container {
   display: flex;
   margin: 0 auto;
   padding: 0 15px;
@@ -96,7 +96,7 @@ nav {
 .contacts-list {
   display: flex;
   gap: 40px;
-  margin: 24px 0;
+  padding: 24px 0;
 }
 .nav-link {
   color: #2e2f42;
